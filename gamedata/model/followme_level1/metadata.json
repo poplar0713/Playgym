@@ -1,0 +1,1 @@
+{"tfjsVersion":"1.3.1","tmVersion":"0.8.6","packageVersion":"0.8.6","packageName":"@teachablemachine/pose","timeStamp":"2021-11-18T11:26:18.945Z","userMetadata":{},"modelName":"날따라해봐요_정훈_영화_정동","labels":["학","나비","강아지","닭","고릴라","독수리","곰","백조"],"modelSettings":{"posenet":{"architecture":"MobileNetV1","outputStride":16,"inputResolution":257,"multiplier":0.75}}}
